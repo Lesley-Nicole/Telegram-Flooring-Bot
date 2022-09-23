@@ -83,7 +83,7 @@ pooch==1.5.1
 preshed==3.0.5
 promise==2.3
 proto-plus==1.19.3
-protobuf==3.18.1
+protobuf==3.18.3
 psutil==5.8.0
 py-cpuinfo==8.0.0
 pyasn1==0.4.8
