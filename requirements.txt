@@ -56,7 +56,7 @@ importlib-metadata @ file:///C:/ci/importlib-metadata_1631916842152/work
 importlib-resources==5.2.2
 itsdangerous @ file:///tmp/build/80754af9/itsdangerous_1621432558163/work
 Jinja2==3.0.2
-joblib==1.1.0
+joblib==1.2.0
 kaggle==1.5.12
 keras==2.6.0
 Keras-Preprocessing==1.1.2
