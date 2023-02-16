@@ -147,7 +147,7 @@ uritemplate==3.0.1
 urllib3==1.26.7
 wasabi==0.8.2
 websockets==8.1
-Werkzeug==2.0.2
+Werkzeug==2.2.3
 wincertstore==0.2
 wrapt==1.12.1
 zipp @ file:///tmp/build/80754af9/zipp_1633618647012/work
